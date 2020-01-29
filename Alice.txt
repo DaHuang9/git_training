@@ -1,3 +1,7 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<<<<<<< HEAD
 Second Line.
 REbasing
+=======
+fetching_changes_sample
+>>>>>>> cb49d85e8166e715547b6fa1f132a0ac9442de48
